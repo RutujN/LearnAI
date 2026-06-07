@@ -1,5 +1,15 @@
 # LearnAI
 
+## Application Preview
+
+### Home Interface
+
+![Home Interface](assets/screenshot-home.png)
+
+### AI Response Example
+
+![AI Response](assets/screenshot-chat.png)
+
 ## Overview
 
 LearnAI is a web-based AI assistant that enables users to interact with a Large Language Model through a simple and intuitive interface. Users can submit natural language queries, which are processed by the Google Gemini API via a Node.js backend, and receive AI-generated responses in real time.
